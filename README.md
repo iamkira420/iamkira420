@@ -15,7 +15,10 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 - 💬 Ask me about myself and computers
 - 📫 How to reach me: do some osint buddy
 - 😄 Pronouns: hello/world
-- ⚡ Fun fact: if it's smart, it's vulnerable. 
+- ⚡ Fun fact: if it's smart, it's vulnerable.
 
 
-![road-card](https://github.com/iamkira420/iamkira420/assets/75730786/5058d47e-6b0c-470e-a4a6-3e7d7d108884)
+![road-card](https://github.com/iamkira420/iamkira420/assets/75730786/98af54bd-ad7a-4f7b-8f16-9f9da936a796)
+
+
+
