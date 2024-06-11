@@ -13,7 +13,7 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 - 🌱 I’m currently learning networking and computer systems fundamentals
 - 👯 I’m looking to collaborate on Capture The Flags competitions
 - 💬 Ask me about myself and computers
-- 📫 How to reach me: discord: __bk201__  X: iamkira420
+- 📫 How to reach me: do some osint buddy
 - 😄 Pronouns: hello/world
 - ⚡ Fun fact: if it's smart, it's vulnerable. 
 
