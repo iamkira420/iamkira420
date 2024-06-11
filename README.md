@@ -16,3 +16,5 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 - 📫 How to reach me: discord: __bk201__  X: iamkira420
 - 😄 Pronouns: hello/world
 - ⚡ Fun fact: if it's smart, it's vulnerable. 
+
+https://roadmap.sh/card/wide/666833b359bd70fae2f16a10?variant=dark&roadmaps=cyber-security
