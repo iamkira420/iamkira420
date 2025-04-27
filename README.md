@@ -13,7 +13,7 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 - 🌱 I’m currently learning networking, computer science, and cyber security
 - 👯 I’m looking to collaborate on Capture The Flag competitions and Hackathons
 - 💬 Ask me about myself and computers
-- 📫 How to reach me: do some osint buddy
+- 📫 How to reach me: osint harder
 - 😄 Pronouns: hello/world
 - ⚡ Fun fact: if it's smart, it's vulnerable.
 
