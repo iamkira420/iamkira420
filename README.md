@@ -20,7 +20,6 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 
 
 
-![road-card](https://github.com/iamkira420/iamkira420/assets/75730786/98af54bd-ad7a-4f7b-8f16-9f9da936a796)
-
+[![roadmap.sh](https://roadmap.sh/card/tall/666833b359bd70fae2f16a10?variant=dark)](https://roadmap.sh)
 
 
