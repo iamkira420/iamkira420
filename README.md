@@ -20,6 +20,6 @@ Here are some ideas to get you started: - 🤔 I’m looking for help with
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/666833b359bd70fae2f16a10?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/666833b359bd70fae2f16a10?variant=dark)](https://roadmap.sh)
 
 
