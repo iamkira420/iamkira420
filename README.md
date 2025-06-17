@@ -1,21 +1,21 @@
 ## Hello world 👋
 
-✨ Welcome to my personal repo, have fun! ✨
+🎯 Always in debug mode — for code, systems, and self.
 
-<!--
-**iamkira420/iamkira420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 Cybersecurity enthusiast in the making | CTF player | UDS Cyber Division 🛡️  
+- 💻 Currently building a phishing detector browser extension (Python + C++)  
+- 🌐 Learning data structures, OS internals, networking, and digital forensics  
+- 🧠 Writing my own tools for threat intel, log analysis, and SOC workflows  
+- ⚔️ Weekends are for hacking: CTFs, simulations, or reverse engineering  
+- 🗣️ Also running #SecureMonday + #OpenSourceFriday campaigns with GKSS  
+- 🎮 Side quests: DNS/HTTP server from scratch, anime-themed terminal setups  
 
-Here are some ideas to get you started: - 🤔 I’m looking for help with 
+> 📍 Motto: *If it’s smart, it’s vulnerable*  
+> 🕵️‍♂️ Reach me? Try enumerating first.  
 
--->
+---
 
-- 🔭 I’m currently working on my pentesting and coding skills
-- 🌱 I’m currently learning networking, computer science, and cyber security
-- 👯 I’m looking to collaborate on Capture The Flag competitions and Hackathons
-- 💬 Ask me about myself and computers
-- 📫 How to reach me: osint harder
-- 😄 Pronouns: hello/world
-- ⚡ Fun fact: if it's smart, it's vulnerable.
+🚀 Always down to collab on hackathons, infosec tools, or student tech communities.  
 
 
 
